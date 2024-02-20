@@ -1,0 +1,32 @@
+.contenedor-perfil{
+    height: 300px;
+    width: 600px;
+    display: -webkit-inline-flex;
+    background-color: rgb(232, 201, 122);
+    align-items: center;
+    border: 8px solid goldenrod;
+    border-style: double;
+}
+
+.imagen-perfil{
+    height: 300px;
+    width: 300px;
+    border-radius: 6cap;
+}
+
+.contenedor-texto-perfil{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    line-height: 1rem;
+}
+
+.contenedor-texto-perfil{
+    font-size: 1rem;
+
+}
+
+.resena-perfil{
+    font-size: 1rem;
+    text-align: justify;
+}
